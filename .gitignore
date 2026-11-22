@@ -1,0 +1,29 @@
+.DS_Store
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+
+.DS_Store
+.env
+.env.*
+!.env.example
+
+/node_modules/
+
+/.react-router/
+/build/
+/dist/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+
+# OS
+Thumbs.db
+.agents/
